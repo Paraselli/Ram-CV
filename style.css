@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  font-size: 90px;
+  margin-top: 0;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+  line-height: 2;
+}
+.programmer {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrato", sans-serif;
+  color: #11999e;
+}
+div {
+  background-color: #eafdfc;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-container {
+  background-color: #eafdfc;
+  position: relative;
+  padding-top: 100px;
+}
+.border {
+  border-radius: 0%;
+  border-bottom: 1px;
+  border-top: 1px;
+  border-style: ridge;
+  border-color: blueviolet;
+}
+.hotwings {
+  border-style: ridge;
+  border-color: blueviolet;
+}
+.design {
+  border-style: ridge;
+  border-color: blueviolet;
+}
+.contact {
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer-link {
+  color: #11999e;
+}
+.skill-row {
+  /* width: 50%; */
+  margin: auto;
+}
